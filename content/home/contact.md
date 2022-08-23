@@ -25,7 +25,7 @@ content:
   #   captcha: false
 
   # Contact details (edit or remove options as required)
-  email: hugo.aaronson@warwick@ac.uk
+  email: hugo.aaronson@warwick.ac.uk
   # phone: 888 888 88 88
   # address:
   #  street: 450 Serra Mall
