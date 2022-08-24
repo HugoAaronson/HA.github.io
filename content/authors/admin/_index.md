@@ -55,6 +55,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I am Hugo and I am a second-year PhD student in the theory group at the University of Warwick working in classical and quantum complexity theory. My supervisor is Professor Tom Gur.
+I am a second-year PhD student in the theory group at the University of Warwick working in classical and quantum complexity theory. My supervisor is Professor Tom Gur.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
